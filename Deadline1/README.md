@@ -15,7 +15,7 @@ Dễ thấy rằng độ phức tạp của bài toán là tuyến tính O(n). C
 
 ### Bảng kiểm thử black box trên lí thuyết:
 |STT|Giá trị n| Số phép so sánh cần thực hiện|Số phép gán cần thực hiện|
-|---|---|---|----|----|
+|---|---|---|----|
 |1|5|5|16 |
 |2|7|7|22 |
 |3|9|9|28 |
